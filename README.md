@@ -10,4 +10,6 @@ You can use [this](https://docs.expo.dev/get-started/installation/) for installa
 
 Once you have everything installed you can follow [these instructions](https://docs.expo.dev/get-started/expo-go/) to get the app running.
 
+You may need to run npx install before you run npx expo start.
+
 Scan the QR code through the expo app on your Android device or through your camera on your iOS device to explore!
